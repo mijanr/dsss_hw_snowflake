@@ -9,7 +9,7 @@ setup(
     author='Md Mijanur Rahman',
     author_email='md.rahmdn@fau.de',
     install_requires=required,
-    py_modules=['snowflake'],
+    #py_modules=['snowflake'],
     )
 
 
