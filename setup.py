@@ -8,7 +8,8 @@ setup(
     description='Snowflake',
     author='Md Mijanur Rahman',
     author_email='md.rahmdn@fau.de',
-    install_requires=required
+    install_requires=required,
+    py_modules=['snowflake'],
     )
 
 
