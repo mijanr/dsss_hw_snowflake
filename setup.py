@@ -9,6 +9,7 @@ setup(
     author='Md Mijanur Rahman',
     author_email='md.rahmdn@fau.de',
     install_requires=required,
+    packages= ['snowflake'],
     #py_modules=['snowflake'],
     )
 
