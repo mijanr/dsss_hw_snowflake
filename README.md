@@ -9,6 +9,10 @@ Complete the To-Dos for the homework and make the GitHub repo pip installable.
 - [3] Make the repo pip installable.
 - [4] Push all the changes to GitHub.
 
+## Installation
+This repository is pip installable. To install it, run the following command in the terminal:
+pip install git+https://github.com/mijanr/dsss_hw_snowflake.git
+
 ## Final output
 After completing the homework, the final output looks like this:
 ![Final output](images/output.png)
